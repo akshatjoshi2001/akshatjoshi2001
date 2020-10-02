@@ -10,7 +10,7 @@ I'm Akshat. I am a tech enthusiast, who loves knowing how things work. Thanks fo
 
 
 
-- 🔭 I’m currently working on a cloud game streaming app.
+- 🔭 I’m currently working on a cloud game streaming app and also trying to improving obstacle avoidance and path planning algorithms at <a href='http://anveshak.team'>Team Anveshak</a>
 - 🌱 I’m learning something new everyday!
 - 🤔 I’m looking for help with migrating from MJPEG to VP9/AV1 for my game streaming app.
 - 💬 Ask me about tech, life at IIT (:P) or just say hello!
