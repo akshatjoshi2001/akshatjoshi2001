@@ -1,17 +1,9 @@
-### Hey there 👋
+### 
+
 
 <!--
 **akshatjoshi2001/akshatjoshi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-
-I'm Akshat. I am a tech enthusiast, who loves knowing how things work. Thanks for visiting my profile!
-
-
-
-- 🔭 I’m currently working on a cloud game streaming app and also trying to improving obstacle avoidance and path planning algorithms at <a href='http://anveshak.team'>Team Anveshak</a>
-- 🌱 I’m learning something new everyday!
-- 🤔 I’m looking for help with migrating from MJPEG to VP9/AV1 for my game streaming app.
-- 💬 Ask me about tech, life at IIT (:P) or just say hello!
-- 📫 How to reach me: akshatjoshi@smail.iitm.ac.in or akshatjoshi375@gmail.com
+<img src="https://scontent-bom1-2.xx.fbcdn.net/v/t1.6435-9/92625816_224203985558481_7122850819694657536_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JiiBuCbF3aQAX_L9ln6&_nc_ht=scontent-bom1-2.xx&oh=00_AT9KfoA3f44RpcZjd_mYkhKyTrt5ksS8oGnD9hWqzUl1UQ&oe=6284095A">
